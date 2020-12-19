@@ -1,0 +1,28 @@
+{
+    "employee": [
+        {
+            "name": "Soumik",
+            "department": [
+                "HR"
+            ],
+            "gender": "M",
+            "salary": "40000",
+            "startDate": "1 Dec 2020",
+            "notes": "",
+            "id" : 22221,
+            "profileUrl": "F:/workspace/HTML CSS practice/assets/profile4.jpg"
+        },
+        {
+            "name": "Akansha",
+            "department": [
+                "Finance"
+            ],
+            "gender": "F",
+            "salary": "45000",
+            "startDate": "1 Dec 2020",
+            "notes": "",
+            "id": 22222,
+            "profileUrl": "F:/workspace/HTML CSS practice/assets/profile3.jpg"
+        }
+    ]
+}
